@@ -1,3 +1,19 @@
 theme: jekyll-theme-minimal
 title: Edgar Quinones' Homepage
 description: Bookmark this to keep an eye on my project updates!
+baseurl: "" # The subpath of your site, e.g. /blog
+url: "https://edgarquinones.github.io/Portfolio/" # The base URL of your site
+author: Edgar Quinones
+email: edgarq1215@gmail.com
+social_links:
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/edgar-quinones/
+    icon: fa-linkedin
+  - name: GitHub
+    url: https://github.com/EdgarQuinones
+    icon: fa-github
+show_avatar: true
+avatar: "/assets/images/avatar.png"
+show_description: true
+show_projects: true
+show_blog: true
